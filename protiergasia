@@ -2,12 +2,17 @@
 <html>
 <head>
 <title>LaLou C.O.</title>
-<link href="style.css" rel="styleshee"
+<link href="style.css" rel="styleshee" tye="text//scc">
 </head>
 <body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+     <header>
+      
+        <div class="row">
+        <ul class="main-naiv">
+        <li><a href=""> HOME </a></li>
+     </header>
 </body>
+
+
 </html>
+
