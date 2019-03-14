@@ -38,7 +38,7 @@ header
     border:1px solid white;
 }
 
-.main-nav li a:hover
+.main-nav li.active a:hover
 {
     border:1px solid white;
 }
